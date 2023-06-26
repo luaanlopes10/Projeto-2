@@ -1,0 +1,9 @@
+body {
+    background: black; /*Fundo da tela */    
+}
+
+
+
+body {
+    background: rosybrown; /*Fundo da tela */    
+} /*SEMPRE CONSIDERA O ULTIMO DECLARADO, NO CASO ESSE*/

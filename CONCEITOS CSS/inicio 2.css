@@ -1,0 +1,24 @@
+/*NO HTML::after
+
+
+<p>OI</p>
+<p id="segundo">OLA</p>
+<p class="terceiro">OIE</p>
+*/
+
+
+p {
+    color: blue;
+}
+
+
+
+#segundo {
+    color: red;
+}
+
+
+.terceiro {
+    color: purple;
+}
+
